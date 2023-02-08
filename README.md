@@ -3,7 +3,7 @@
 <param ve-config 
        title="Madison's Visual Essay Project"
        author="Madison O'Leary"
-       banner="https://en.wikipedia.org/wiki/Flower#/media/File:Flower_poster_2.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures/Plants/Flowers#/media/File:Origanum_vulgare_inflorescence_-_Keila.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
