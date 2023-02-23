@@ -10,10 +10,12 @@
 
 When I was growing up, I was always incredibly close with all of my grandparents, especially my Grandpop Dennis. Both of my parents worked, so I would often go over to my grandparents’ house during the summer and spend time with them. My grandfather would always take me fishing, or he would let me walk his dogs, and one of our favorite activities was gardening (we even planted a tree together!). 
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       url="https://molear22.github.io/visual-essay-juncture/image/6BFFFB89-2E65-460E-91F1-E3D35B84692BIMG_3359.jpeg">
 
 ## Basic usage
 Back in 2018, my grandfather suffered a series of strokes and lost almost all of his motor skills. He had been on a steady decline for several months, so our family decided to take him on our annual beach trip for the last time. One night, me, my aunt, and my dad took Grandpop down to his favorite spot on the beach to watch the sunset. 
+<param ve-image
+       url="
 
 ## Image
 
