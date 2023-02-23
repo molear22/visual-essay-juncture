@@ -15,14 +15,12 @@ When I was growing up, I was always incredibly close with all of my grandparents
 ## Basic usage
 Back in 2018, my grandfather suffered a series of strokes and lost almost all of his motor skills. He had been on a steady decline for several months, so our family decided to take him on our annual beach trip for the last time. One night, me, my aunt, and my dad took Grandpop down to his favorite spot on the beach to watch the sunset. 
 <param ve-image
-       url="
+       url="https://molear22.github.io/visual-essay-juncture/image/72A03C35-FE3C-46B7-A50D-E42F90B70EBDIMG_2485.jpeg">
 
 ## Image
 
 This was one of the last moments I spent with my grandfather because we took our beach trip in July, and he passed away in late August. In this picture, you can clearly see how at peace and happy he was to visit his favorite spot before it was too late. 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
-       license="public domain" 
+<param ve-image
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
 ## Map
