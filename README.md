@@ -12,7 +12,7 @@ When I was growing up, I was always incredibly close with all of my grandparents
 <param ve-image 
        url="https://molear22.github.io/visual-essay-juncture/image/6BFFFB89-2E65-460E-91F1-E3D35B84692BIMG_3359.jpeg">
 
-## The Beggining of His Decline
+## The Beginning of His Decline
 
 Back in 2018, my grandfather suffered a series of strokes and lost almost all of his motor skills. He had been on a steady decline for several months, so our family decided to take him on our annual beach trip for the last time. One night, me, my aunt, and my dad took Grandpop down to his favorite spot on the beach to watch the sunset. 
 <param ve-image
@@ -20,7 +20,9 @@ Back in 2018, my grandfather suffered a series of strokes and lost almost all of
 
 ## Last Moments
 
-This was one of the last moments I spent with my grandfather because we took our beach trip in July, and he passed away in late August. In this picture, you can clearly see how at peace and happy he was to visit his favorite spot before it was too late. 
+This was one of the last moments I spent with my grandfather because we took our beach trip in July, and he passed away in late August. In this picture, you can clearly see how at peace and happy he was to visit his favorite spot before it was too late.
+
+
 <param ve-image
        url="https://molear22.github.io/visual-essay-juncture/image/CED39B97-952A-4522-B968-7F79E7F90C0CIMG_2245.jpeg">
 
