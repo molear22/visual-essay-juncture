@@ -26,6 +26,8 @@ This was one of the last moments I spent with my grandfather because we took our
 ## Map
 
 After Grandpop Dennis passed, it was really tough on my family, especially my aunt and my grandmother, because we were all so close to each other. Even though we all knew he was sick and unable to get better, the loss still had a devastating impact on my whole family. The next summer, my aunt returned to the same spot we took my grandpop to watch the sunset. When she took a picture of the same spot my grandpop sat, she noticed a green orb floating eerily close to where he sat in the previous photograph. My aunt struggled with his loss, in particular, so being able to capture this moment was so special and comforting to her. We all knew his presence still remains at that spot on the beach, and being able to visualize it means everything.
+<param ve-image
+       url="https://molear22.github.io/visual-essay-juncture/image/C9313B55-6AF6-4852-8FFC-5B3611D1DB85IMG_2425.jpeg">
 
 ## Multiple viewers
 
