@@ -21,8 +21,6 @@ Back in 2018, my grandfather suffered a series of strokes and lost almost all of
 ## Last Moments
 
 This was one of the last moments I spent with my grandfather because we took our beach trip in July, and he passed away in late August. In this picture, you can clearly see how at peace and happy he was to visit his favorite spot before it was too late.
-
-
 <param ve-image
        url="https://molear22.github.io/visual-essay-juncture/image/CED39B97-952A-4522-B968-7F79E7F90C0CIMG_2245.jpeg">
 
