@@ -4,7 +4,7 @@
        title="The Power of Images in Times of Grief"
        author="Madison O'Leary"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/b/b3/P%C3%A4ij%C3%A4nne_and_p%C3%A4ij%C3%A4tsalo.jpg" 
-       layout="vertical">
+       layout="vtl">
 
 ## Grandpop Dennis
 
