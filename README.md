@@ -35,4 +35,3 @@ After Grandpop Dennis passed, it was really tough on my family, especially my au
 These images show the importance of being able to capture special moments and take solace in the fact that even though our loved ones may have moved on, they will always be with us. The green orb may just be a defect with the camera or a trick of the light, but me and my family will always interpret it as my grandfather. Signs like these are sometimes unexplainable, but there was a reason why that orb appeared in this spot. 
 <param ve-image 
        url="https://molear22.github.io/visual-essay-juncture/image/D086B20D-2418-4171-8CD9-686D0D5F79A5IMG_2185.jpeg">
-
